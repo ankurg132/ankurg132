@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone, I'm a student learning new things. 
+<h1>Hello everyone, I'm a student learning new things. </h1>
