@@ -27,5 +27,7 @@ Here are some ideas to get you started:
       <a href='https://instagram.com/ankurg132' target='_blank'>
   <img alt='Ankur Gupta&apos;s Instagram Profile' height='30' src='https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/f6/02/7b/f6027b46-074e-32de-e0ff-abed283b7afa/Prod-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png' width='30'/></a>
       <a href='https://linkedin.com/in/ankurg132' target='_blank'>
-  <img alt='Ankur Gupta&apos;s Linkedin Profile' height='30' src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' width='30'/></a>
+  <img alt='Ankur Gupta&apos;s Linkedin Profile' height='30' src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' width='30'/></a><br>
+  <h4>And here is my <a href="https://ankurg132.github.io" target='_blank'>Github Page</a>
+  
 </center>
