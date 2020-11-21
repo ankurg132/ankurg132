@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <center>
-<h1>Hello everyone, I'm a student and learning some new things currently. </h1>
+<h1>Hello everyone, I'm an information technology student persuing B.Tech. </h1>
 <h2>I have some good knowledge of C++,HTML,CSS,JS,Ruby,Python and can write Hello World in many more languages.</h2>
 <h2>I'm also learning Web development and some Data Science. I'm still a beginner and hence going through many options to choose the most suitable one for me. </h2>
 <h2>You can find me on-</h2>
