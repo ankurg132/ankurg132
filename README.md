@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **ankurg132/ankurg132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <center>
 <h1>Hello everyone, I'm Ankur Gupta, an information technology student. </h1>
 <h2>I have some good knowledge of C++,HTML,CSS,JS,Python and can write Hello World in many more languages.</h2>
-<h2>🌱 I'm currently learning some Data Structures and algorithms along with some explorations here and there. I also like to contribute to open source.</h2>
+<h2>🌱 I'm currently learning some Data Structures and algorithms along with some explorations here and there including a lot of things. I also like to contribute to open source.</h2>
 <h2>You can find me on-</h2>
 <a href='https://dev.to/ankurg132' target='_blank'>
   <img alt='Ankur Gupta&apos;s DEV Profile' height='30' src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' width='30'/>
