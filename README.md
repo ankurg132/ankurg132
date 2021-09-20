@@ -14,19 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
-<h1>Hello everyone, I'm Ankur Gupta, an information technology student. </h1>
-<h2>I have some good knowledge of C++,HTML,CSS,JS,Python and can write Hello World in many more languages.</h2>
-<h2>🌱 I'm currently learning some Data Structures and algorithms along with some explorations here and there including a lot of things. I also like to contribute to open source.</h2>
-<h2>You can find me on-</h2>
-<a href='https://dev.to/ankurg132' target='_blank'>
-  <img alt='Ankur Gupta&apos;s DEV Profile' height='30' src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' width='30'/>
-      </a>
+
+### Hello there, 
+
+- 🔭 I’m currently working on Flutter, many libraries of Python and DevOps
+- 🌱 I’m currently learning PyTorch (ML Implementation), Data Structures and much more
+- 👯 I’m looking to collaborate for my Microsoft Learn Student Workshops and helping others.
+- 💬 Ask me about anything technological.
+- 📫 How to reach me: You can find me on
       <a href='https://twitter.com/ankurg132' target='_blank'>
   <img alt='Ankur Gupta&apos;s Twitter Profile' height='30' src='https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png' width='30'/></a>
       <a href='https://instagram.com/ankurg132' target='_blank'>
   <img alt='Ankur Gupta&apos;s Instagram Profile' height='30' src='https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/f6/02/7b/f6027b46-074e-32de-e0ff-abed283b7afa/Prod-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png' width='30'/></a>
       <a href='https://linkedin.com/in/ankurg132' target='_blank'>
   <img alt='Ankur Gupta&apos;s Linkedin Profile' height='30' src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' width='30'/></a><br>
-  <h4>And here is my <a href='https://ankurg132.github.io' target='_blank'>Github Page</a></h4>
-</center>
+  <h4>And here is something I'm also working on: <a href='https://semikolan.co' target='_blank'>Semikolan</a></h4>
