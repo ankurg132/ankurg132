@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hello there, 
-
 - 🔭 I’m currently working on Flutter, many libraries of Python and DevOps
 - 🌱 I’m currently learning PyTorch (ML Implementation), Data Structures and much more
 - 👯 I’m looking to collaborate for my Microsoft Learn Student Workshops and helping others.
