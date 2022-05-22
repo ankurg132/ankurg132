@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Flutter, many libraries of Python and DevOps
 - 🌱 I’m currently learning PyTorch (ML Implementation), Data Structures and much more
-- 👯 I’m looking to collaborate for my Microsoft Learn Student Workshops and helping others.
+- 👯 I’m looking to collaborate for my Microsoft Learn Student Workshops and helping others. 
 - 💬 Ask me about anything technological.
 - 📫 How to reach me: You can find me on
       <a href='https://twitter.com/ankurg132' target='_blank'>
