@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>I'm Ankur Gupta, an Information Technology Student. I love communities and I've been associated with several communities including GitHub Campus Expert, Gold Microsoft Learn Student Ambassador and GDSC Lead at our university. I'm also working on my own open source-based community Semikolan. I love open source and talking about tech, anime or movies.<br>You can even schedule a talk with me at https://calendly.com/ankurg132/talk.</p>
+<p align="left">Hello World!!<br>I'm Ankur Gupta, an Information Technology Student. I love communities and I've been associated with several communities including GitHub Campus Expert, Gold Microsoft Learn Student Ambassador and GDSC Lead at our university. I'm also working on my own open source-based community Semikolan. I love open source and talking about tech, anime, movies, music and much more.<br>You can schedule a talk with me at https://calendly.com/ankurg132/talk.</p>
 
 ###
 
@@ -78,12 +78,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ankurg132.ankurg132&left_text=Visitors"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313vhzvpactiatnug7ixs3dqevxy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+![Spotify Recently played](https://spotify-recently-played-readme.vercel.app/api?user=313vhzvpactiatnug7ixs3dqevxy)
