@@ -68,9 +68,9 @@
 <p align="left"> <a href="https://open.spotify.com/user/313vhzvpactiatnug7ixs3dqevxy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=313vhzvpactiatnug7ixs3dqevxy&count=2" alt="Spotify Recently played" /></a> </p>
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📖 Latest Blog posts
+<!-- AGBLOGS:START -->
+<!-- AGBLOGS:END -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ankurg132"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ankurg132" /></a></p><br><br>
