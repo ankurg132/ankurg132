@@ -70,6 +70,10 @@
 
 ### 📖 Latest Blog posts
 <!-- AGBLOGS:START -->
+- [2021: Year In Review](https://dev.to/ankurg132/2021-year-in-review-3j7b)
+- [Create a filter and get goodies from Meta](https://dev.to/ankurg132/create-a-filter-and-get-goodies-from-meta-60p)
+- [Installing Nginx on Ubuntu and hosting Websites](https://dev.to/ankurg132/installing-nginx-on-ubuntu-and-hosting-websites-533e)
+- [Basics of LOLCODE](https://dev.to/ankurg132/basics-of-lolcode-3cco)
 <!-- AGBLOGS:END -->
 
 <h3 align="left">Support:</h3>
