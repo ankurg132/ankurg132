@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ankurg132/ankurg132/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
 
 ###
 
