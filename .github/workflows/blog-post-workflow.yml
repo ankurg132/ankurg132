@@ -12,4 +12,5 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/ankurg132"
+                comment_tag_name: "AGBLOGS"
                 gh_token: ${{ secrets.GITHUB_TOKEN }}
