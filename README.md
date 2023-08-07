@@ -5,7 +5,6 @@
 <p align="left">Hello World!!<br>I'm Ankur Gupta, an Information Technology Student. I love communities and I've been associated with several communities including GitHub Campus Expert, Gold Microsoft Learn Student Ambassador and GDSC Lead at our university. I'm also working on my own open source-based community Semikolan. I love open source and talking about tech, anime, movies, music and much more.<br>You can schedule a talk with me at https://calendly.com/ankurg132/talk.</p>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ankurg132" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ankurg132" height="150" alt="languages graph"  />
