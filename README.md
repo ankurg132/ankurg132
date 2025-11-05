@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>I'm Ankur Gupta, an Information Technology Student. I love communities and I've been associated with several communities including GitHub Campus Expert, Gold Microsoft Learn Student Ambassador and GDSC Lead at our university. I'm also working on my own open source-based community Semikolan. I love open source and talking about tech, anime, movies, music and much more.<br>You can schedule a talk with me at https://calendly.com/ankurg132/talk.</p>
+<p align="left">Hello World!!<br>I'm Ankur Gupta, a professional Mobile Developer in Flutter and Android with 2+ years of experience. I love communities, I'm an alumni GitHub Campus Expert and the Organizer of AI Bhopal Community. I love open source and talking about tech, anime, movies, music and much more.<br></p>
 
 ###
 <div align="center">
@@ -43,9 +43,6 @@
 <img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left"> <a href="https://open.spotify.com/user/313vhzvpactiatnug7ixs3dqevxy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=313vhzvpactiatnug7ixs3dqevxy&count=2" alt="Spotify Recently played" target="blank"/></a> </p>
-
 
 ### 📖 Latest Blog posts
 <!-- AGBLOGS:START -->
