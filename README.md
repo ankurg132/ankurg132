@@ -46,10 +46,10 @@
 
 ### 📖 Latest Blog posts
 <!-- AGBLOGS:START -->
+- [Building an IDE in Flutter, for Flutter](https://dev.to/ankurg132/building-an-ide-in-flutter-for-flutter-4kfj)
 - [Migrating old Flutter project to the latest version.](https://dev.to/ankurg132/migrating-old-flutter-project-to-the-latest-version-1d06)
 - [2023: Year In Review](https://dev.to/ankurg132/2023-year-in-review-2jeo)
 - [Creating Beautiful UI with Flutter](https://dev.to/ankurg132/creating-beautiful-ui-with-flutter-2ob6)
-- [2021: Year In Review](https://dev.to/ankurg132/2021-year-in-review-3j7b)
 <!-- AGBLOGS:END -->
 
 <h3 align="left">Support:</h3>
