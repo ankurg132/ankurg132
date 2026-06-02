@@ -37,10 +37,10 @@
 
 ### 📖 Latest Blog posts
 <!-- AGBLOGS:START -->
+- [The Android 17 Reality Check: Why Your Flutter App Can No Longer Hide Behind Orientation Locks](https://dev.to/ankurg132/the-android-17-reality-check-why-your-flutter-app-can-no-longer-hide-behind-orientation-locks-1b87)
 - [Separating dev and production environment in your Flutter App with multiple Firebase configurations.](https://dev.to/ankurg132/separating-dev-and-production-environment-in-your-flutter-app-with-multiple-firebase-configurations-5h5n)
 - [Building an IDE in Flutter, for Flutter](https://dev.to/ankurg132/building-an-ide-in-flutter-for-flutter-4kfj)
 - [Migrating old Flutter project to the latest version.](https://dev.to/ankurg132/migrating-old-flutter-project-to-the-latest-version-1d06)
-- [2023: Year In Review](https://dev.to/ankurg132/2023-year-in-review-2jeo)
 <!-- AGBLOGS:END -->
 
 <h3 align="left">Support:</h3>
